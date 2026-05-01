@@ -1,4 +1,4 @@
-# admit_discharge.py
+
 
 from db_connection import con_obj, cur_obj
 
