@@ -1,4 +1,4 @@
-# patient.py
+
 
 from db_connection import con_obj, cur_obj
 from login import Login
